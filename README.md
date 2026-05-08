@@ -1,7 +1,7 @@
 
 Airbnb Data Handling & Preprocessing 🏠📊
 
-This project demonstrates basic data preprocessing techniques using the Airbnb NYC 2019 dataset.
+This project demonstrates basic data preprocessing techniques using the Airbnb NYC dataset.
 
 Features
 
